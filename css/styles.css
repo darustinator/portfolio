@@ -95,3 +95,9 @@ color:white;
     border: 0px;
 min-width: 18em;
 }
+
+.btn-default{
+background:#29203a;
+    color:white;
+    border:0px;
+}
