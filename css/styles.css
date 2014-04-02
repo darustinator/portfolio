@@ -72,6 +72,17 @@ margin-top:60px;
  
 }
 
+.skills{
+    
+    background:black;
+    background-image: url(../images/tiny_grid.png);/*Photo credit Ann Kuntze*/
+    background-position: center;
+    
+    height:100%;
+    color:black;
+ 
+}
+
 .content{
     
 margin-top: 10%;
