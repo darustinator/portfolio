@@ -75,11 +75,11 @@ margin-top:60px;
 .skills{
     
     background:black;
-    background-image: url(../images/tiny_grid.png);/*Photo credit Ann Kuntze*/
+    background-image: url(../images/dark_wood.png);
     background-position: center;
     
     height:100%;
-    color:black;
+    color:white;
  
 }
 
@@ -148,19 +148,18 @@ p{
 
 }
 
+
+
+
+
+.skills-content{
+
+
+max-height: 100%;    
+}
+
 .list-group{
 
-    max-width: 20%;
-
-}
-
-li{
-
-    list-style-type: none;
-
-}
-
-.progress-bar{
-background: #29203a;
-
+color:black;
+    
 }
