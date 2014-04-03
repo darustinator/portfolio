@@ -147,3 +147,20 @@ p{
     
 
 }
+
+.list-group{
+
+    max-width: 20%;
+
+}
+
+li{
+
+    list-style-type: none;
+
+}
+
+.progress-bar{
+background: #29203a;
+
+}
