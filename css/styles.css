@@ -151,6 +151,15 @@ p{
     min-width: 5%;
 
 }
+
+.social:hover{
+    -webkit-border-radius:100%;
+    -moz-border-radius:100%;
+    -o-border-radius:100%;
+border-radius:100%;
+    background-color:white;
+  
+}
 .logo{
     
    
